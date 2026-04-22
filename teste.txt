@@ -1,1 +1,1 @@
-Isso é um teste.
+Exercício realizado para a disciplina de Qualidade de Software.
